@@ -15,6 +15,7 @@ Currently:
 |---|---|---|
 | [SuperCovo](https://github.com/adekunleth/supercovo) | AI resume tailoring — Claude Haiku + Sonnet, Stripe, Supabase | 🟢 Live |
 | [Timetable Calendar](https://github.com/adekunleth/edu-timetable-cal) | Higher Education Timetable Scheduler | 🟡 Prototype |
+| [PDFPerfect_Pro] (https://github.com/adekunleth/pageperfect-pro) | Precision PDF extraction | 🟡 Prototype |
 ---
 
 ## Stack I work with
