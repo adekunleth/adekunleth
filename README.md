@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Adekunle 👋
 
-<!--
-**adekunleth/adekunleth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product Manager based in Sydney. I build things that sit at the intersection of AI, product, and real user problems.
 
-Here are some ideas to get you started:
+Currently:
+- 🚀 Founder of **[SuperCovo](https://www.supercovo.com)** — AI-powered resume tailoring SaaS (live users)
+- 💼 PM at **Meshed Group** — EdTech SaaS platform serving 300+ Institutions
+- 📚 MBA candidate (Aug 2026)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I'm building
+
+| Project | Description | Status |
+|---|---|---|
+| [SuperCovo](https://github.com/adekunleth/supercovo) | AI resume tailoring — Claude Haiku + Sonnet, Stripe, Supabase | 🟢 Live |
+| [Timetable Calendar](https://github.com/adekunleth/edu-timetable-cal) | Higher Education Timetable Scheduler | 🟡 Prototype |
+---
+
+## Stack I work with
+
+`Next.js` `TypeScript` `Supabase` `Anthropic Claude` `Stripe` `Tailwind CSS` `Vercel` `Resend`
+
+---
+
+## Certifications
+
+PMP® Certified · Advanced Scrum Master
+
+---
+
+📫 [LinkedIn](https://linkedin.com/in/adekunleth) · 🌐 [supercovo.com](https://www.supercovo.com)
