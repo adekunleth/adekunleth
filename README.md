@@ -4,6 +4,7 @@ Product Manager based in Sydney. I build things that sit at the intersection of 
 
 Currently:
 - 🚀 Founder of **[SuperCovo](https://www.supercovo.com)** — AI-powered resume tailoring SaaS (live users)
+- 🚀 Built **[DistillPDF](https://www.distillpdf.com)** - AI-Powered PDF document extraction
 - 💼 PM at **Meshed Group** — EdTech SaaS platform serving 300+ Institutions
 - 📚 MBA candidate (Aug 2026)
 
