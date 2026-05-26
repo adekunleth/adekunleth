@@ -5,6 +5,7 @@ Product Manager based in Sydney. I build things that sit at the intersection of 
 Currently:
 - 🚀 Founder of **[SuperCovo](https://www.supercovo.com)** — AI-powered resume tailoring SaaS (live users)
 - 🚀 Built **[DistillPDF](https://www.distillpdf.com)** - AI-Powered PDF document extraction
+- 🚀 Building **[NigeriansAbroad](https://nigeriansabroad.com)** - A community platform for the Nigerian diaspora
 - 💼 PM at **Meshed Group** — EdTech SaaS platform serving 300+ Institutions
 - 📚 MBA candidate (Aug 2026)
 
@@ -17,6 +18,7 @@ Currently:
 | [SuperCovo](https://github.com/adekunleth/supercovo_public) | AI resume tailoring — Claude Haiku + Sonnet, Stripe, Supabase | 🟢 Live |
 | [Timetable Calendar](https://github.com/adekunleth/edu-timetable-cal) | Higher Education Timetable Scheduler | 🟡 Prototype |
 | [DistillPDF](https://github.com/adekunleth/distillpdf) | Precision PDF extraction | 🟢 Live |
+[NigeriansAbroad](https://nigeriansabroad.com) | Customised Community Forum | 🟢 Live |
 ---
 
 ## Stack I work with
@@ -27,7 +29,7 @@ Currently:
 
 ## Certifications
 
-PMP® Certified · Advanced Scrum Master
+PMP® Certified
 
 ---
 
