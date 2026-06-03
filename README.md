@@ -23,7 +23,7 @@ Currently:
 
 ## Stack I work with
 
-`Next.js` `TypeScript` `Supabase` `Anthropic Claude` `Stripe` `Tailwind CSS` `Vercel` `Resend`
+`Next.js` `TypeScript` `Supabase` `Anthropic Claude` `Stripe` `Tailwind CSS` `Vercel` `Resend` `Cloudflare` `Codex` `Google Console` `AWS`
 
 ---
 
